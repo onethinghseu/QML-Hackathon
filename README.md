@@ -1,9 +1,7 @@
 # QML-Hackathon
 an attempt to build a framewrok of QML to predict the crystals 
 
-## Packages & Prerequisites
-
-#  Perovskite Energy Prediction: ML & VQE Quantum Approach
+**Perovskite Energy Prediction: ML & VQE Quantum Approach**
 Combining Machine Learning (Random Forest) and Variational Quantum Eigensolver (VQE) for perovskite material formation energy prediction and ground-state energy analysis.
 
 ---
