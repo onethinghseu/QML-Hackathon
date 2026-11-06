@@ -1,7 +1,8 @@
 # QML-Hackathon
 an attempt to build a framewrok of QML to predict the crystals 
 
-**Perovskite Energy Prediction: ML & VQE Quantum Approach**
+**Perovskite Energy Prediction: ML & VQE Quantum Approach** 
+
 Combining Machine Learning (Random Forest) and Variational Quantum Eigensolver (VQE) for perovskite material formation energy prediction and ground-state energy analysis.
 
 ---
@@ -22,7 +23,7 @@ The following Python packages are required to run this project. You can install 
 pip install matminer pennylane scikit-learn pandas numpy scipy matplotlib
 ```
 
-### 📦 Core Package List
+### Core Package List
 
 * **Materials Data & Feature Extraction**:
   * `matminer`: Used for loading the Matbench material dataset and extracting chemical/structural features.
